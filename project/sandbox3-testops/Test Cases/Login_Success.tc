@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Success</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b7ccc7eb-df72-4dae-b0e5-8faafe4c66db</testCaseGuid>
+</TestCaseEntity>

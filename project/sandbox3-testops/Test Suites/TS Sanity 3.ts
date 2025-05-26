@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS Sanity</name>
+   <name>TS Sanity 3</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,7 +10,7 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>863e6347-3f3c-4ab1-b269-da65f4625627</testSuiteGuid>
+   <testSuiteGuid>49d00374-2b40-4f11-8ddd-bc4d2a1fb530</testSuiteGuid>
    <testCaseLink>
       <guid>2f8e864a-8d75-4ad0-aa37-a16c6d7e82e9</guid>
       <isReuseDriver>false</isReuseDriver>

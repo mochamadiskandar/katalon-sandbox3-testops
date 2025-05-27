@@ -15,7 +15,7 @@
       <guid>282fe19a-5de4-4b8f-8167-ef0e4ccf270c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login_Success - private</testCaseId>
+      <testCaseId>Test Cases/SauceDemo/Login_Success - private</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

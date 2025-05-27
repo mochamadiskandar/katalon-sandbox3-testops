@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tentang Kami Kebijakan PrivasiIDEN</name>
+   <tag></tag>
+   <elementGuidId>ec42ec6a-97f0-4848-b4c7-ec15f8661248</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-4pnhox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.css-4pnhox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4dc38f9e-9735-4d6c-a06f-41cfbd97090b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-4pnhox</value>
+      <webElementGuid>b8147eb7-25a5-4a4b-9348-a82044578b26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tentang Kami Kebijakan PrivasiIDEN</value>
+      <webElementGuid>1a8e78fc-f8af-4efb-9e4a-ffdd27fda294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiScopedCssBaseline-root css-y57rlh&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-ietzmr&quot;]/div[@class=&quot;css-y09veg&quot;]/div[@class=&quot;css-4pnhox&quot;]</value>
+      <webElementGuid>4d8f2f65-0eda-4025-8a9b-3b38888ccc4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div</value>
+      <webElementGuid>6166a677-3c29-42a1-981a-1ae9b7d3ccd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>9d33e57a-87a0-4b50-8ec3-84cff3bf1c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Tentang Kami Kebijakan PrivasiIDEN' or . = ' Tentang Kami Kebijakan PrivasiIDEN')]</value>
+      <webElementGuid>ddac4b68-3fc2-486f-be0c-1c621630c0ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

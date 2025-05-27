@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS Positive</name>
+   <name>Login Logout</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>f2f24e5c-37cf-459d-95e5-d627ef4a3ac0</testSuiteGuid>
+   <testSuiteGuid>02f4dd4c-98d9-4e7e-9fe0-92f93678c30e</testSuiteGuid>
    <testCaseLink>
-      <guid>e404eb9f-eca1-40bb-afa5-5e81ca56dea5</guid>
+      <guid>b3138764-660f-4166-98d4-8e22ae275c7a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SauceDemo/Login_Success</testCaseId>
+      <testCaseId>Test Cases/Bale Bisnis/Login/Login Successful</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c86dc16a-2813-4e42-8346-e98742bbf63b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Bale Bisnis/Logout</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

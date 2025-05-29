@@ -29,6 +29,8 @@ WebUI.click(findTestObject('Object Repository/SauceDemo/LoginPage/button_login')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/SauceDemo/LoginPage/label_Products'), FailureHandling.STOP_ON_FAILURE)
 
+WebUI.takeScreenshot()
+
 not_run: WebUI.click(findTestObject('Object Repository/SauceDemo/LoginPage/button_hamburgerMenu'))
 
 not_run: WebUI.verifyElementVisible(findTestObject('Object Repository/SauceDemo/LoginPage/button_logout'))

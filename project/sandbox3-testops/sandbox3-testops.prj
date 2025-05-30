@@ -9,9 +9,9 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>10.1.1</modifiedVersion>
+   <modifiedVersion>10.1.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>D:\github\katalon-sandbox3-testops\project\sandbox3-testops\sandbox3-testops.prj</projectFileLocation>
+   <projectFileLocation>E:\github\katalon-sandbox3-testops\project\sandbox3-testops\sandbox3-testops.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
